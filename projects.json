@@ -1,0 +1,121 @@
+[
+  {
+    "id": "elite-manufacturer",
+    "name": "Elite Manufacturer",
+    "technology": "React React-Router Node Express MongoDB Tailwind Firebase Stripe",
+    "img": "https://i.ibb.co/H2Jhh9F/bicycle-manufacturer-1.png",
+    "mobileImg": "https://i.ibb.co/3BpKDyc/bicycle-manufacturer.png",
+    "img1": "https://i.ibb.co/HqHDRgg/scrmanufacturer-web-app-dashboard-manage-orders-1.png",
+    "img2": "https://i.ibb.co/5kbp94d/manufacturer-web-app-shop-1.png",
+    "img3": "https://i.ibb.co/7YhK9Qs/scrmanufacturer-web-app-shop-purchase-1.png",
+    "link": "https://bicycle-manufacturer.web.app/",
+    "githubClient": "https://github.com/mahabubulislam/manufacture-website-client",
+    "githubServer": "https://github.com/mahabubulislam/manufacture-website-server",
+    "description": "This is a fullstack web application(MERN). This is a Cycle manufacturing company web application. After user login, user can order products, See Dahsboard. Dashboard, purchase page are protected route. In Dashboard Page, user can see My Profile, My Orders and Add Review Page. Admin will see Manage Orders, Manage Users, Add Products page. Admin can update, insert, delete products. Admin also make a user an admin. User can pay with card"
+  },
+  {
+    "id": "pregnancy-care",
+    "name": "Pregnancy Care",
+    "technology": "React React-Router Firebase Tailwind",
+    "img": "https://i.ibb.co/zFGXP2T/pregnancy-care-1.png",
+    "mobileImg": "https://i.ibb.co/LZxNZgz/pregnancy-care.png",
+    "img1": "https://i.ibb.co/ZJqvLG6/pregnancy-care-77a79-web-app-appoinment-1.png",
+    "img2": "https://i.ibb.co/pKjDjgW/pregnancy-care-77a79-web-app-login-1.png",
+    "link": "https://pregnancy-care-77a79.web.app/",
+    "github": "https://github.com/mahabubulislam/pregnancy-care",
+    "description": "This ia a single page application. It has Home, Appoinment, Blogs, About, SignIn, Login . Appoinment page is protected. If user not sign in , user't view appoinment page. Here user can login with email, password and Google account. user can reset userr password if user forgot it"
+  },
+  {
+    "id": "trust-reviews",
+    "name": "Trust Reviews",
+    "technology": "React React-Router Tailwind",
+    "img": "https://i.ibb.co/7QbM5dG/trust-reviews-1.png",
+    "mobileImg": "https://i.ibb.co/CvLT57Z/trust-reviews.png",
+    "img1": "https://i.ibb.co/LgmXQTk/trust-reviews-netlify-app-dashboard-1.png",
+    "img2": "https://i.ibb.co/CWxn37D/trust-reviews-netlify-app-reviews-1.png",
+    "link": "https://trust-reviews.netlify.app/",
+    "github": "https://github.com/mahabubulislam/trust-review-react-router",
+    "description": "I used React, React Router, Tailwind CSS to create this project.This is a single page application. This is a products review website. It has 5 routes.Home routes is default homepage. Reviews routes is review page. Dashboard routs is designed with some recharts. Blogs routes inside some questions and about routes designed with about information."
+  },
+  {
+    "id": "smart-inventory",
+    "name": "Smart Inventory",
+    "technology": "React Node Express MongoDB Firebase Tailwind",
+    "img": "https://i.ibb.co/1Zs9WmL/ware-house-1.png",
+    "mobileImg": "https://i.ibb.co/Ctd9VBh/ware-house.png",
+    "img1": "https://i.ibb.co/xhRJkpk/ware-house-2fa78-web-app-items-1.png",
+    "img2": "https://i.ibb.co/DY9szQh/ware-house-2fa78-web-app-items-manage-1.png",
+    "img3": "https://i.ibb.co/xf652sD/ware-house-2fa78-web-app-myitems-1.png",
+    "link": "https://ware-house-2fa78.web.app/",
+    "githubClient": "https://github.com/mahabubulislam/ware-house-client",
+    "githubServer": "https://github.com/mahabubulislam/ware-house-server",
+    "description": "This is a fullstack website (Mern Stack). I use React, Tailwind CSS, Tailwind Elements, MongoDB, NodeJS, Express JS, Firebase for authentication etc.This i a inventory web site. user can add product, delete product, update product.This website is basically for crud operation.If user loggedin , then user can add item, manage item.In my item page user can only see userr addded item.Items section shows all items"
+  },
+  {
+    "id": "lucky-winner",
+    "name": "Lucky winner",
+    "technology": "React React-Bootstrap",
+    "img": "https://i.ibb.co/ZXVtM7D/lucky-winner-1.png",
+    "mobileImg": "https://i.ibb.co/dP5K1dV/lucky-winner.png",
+    "img1": " https://i.ibb.co/9sHcNbh/lucky-winner-netlify-app-1.png",
+    "link": "https://lucky-winner.netlify.app/",
+    "github": "https://github.com/mahabubulislam/lucky-draw-winner",
+    "description": "Single page application using React, React Bootstrap. User can select 4 laptops.Then user can click Choose me button and get a laptop randomly from these four"
+  },
+  {
+    "name": "Phone finder",
+    "technology": "Html, CSS, Bootstrap, Javascript, DOM, API",
+    "img": "https://i.ibb.co/QYnb37r/api-phone-finder-1.png",
+    "link": "https://api-phone-finder.netlify.app/",
+    "description": "blue"
+  },
+  {
+    "name": "Expense Tracker",
+    "technology": "HTML, CSS, Bootstrap, JavaScript, DOM",
+    "img": "https://i.ibb.co/5h0C9FQ/expense-and-saving-1.png",
+    "link": "https://expense-and-saving.netlify.app/",
+    "description": "brown"
+  },
+  {
+    "name": "Panda Shop",
+    "technology": "React, Bootstrap, API",
+    "img": "https://i.ibb.co/yg62DMy/panda-shop-1.png",
+    "link": "https://mahbub-panda-shop.netlify.app/",
+    "description": "green"
+  },
+  {
+    "name": "Convention Center",
+    "technology": "Html, CSS, Bootstrap",
+    "img": "https://i.ibb.co/mNYDHR1/convention-center-bootstrap-1.png",
+    "link": "https://mahabubulislam.github.io/convention-center-bootstrap/",
+    "description": "green"
+  },
+  {
+    "name": "Nike-React",
+    "technology": "Html, CSS, Bootstrap",
+    "img": "https://i.ibb.co/NjPQpXT/nike-react-1.png",
+    "link": "https://mahabubulislam.github.io/nike-react/",
+    "description": "green"
+  },
+  {
+    "name": "Panda Commerce",
+    "technology": "Html, CSS, Bootstrap",
+    "img": "https://i.ibb.co/JvgwxgJ/panda-commerce-bootstrap-1.png",
+    "link": "https://mahabubulislam.github.io/panda-commerce-bootstrap/",
+    "description": "green"
+  },
+  {
+    "name": "Penguine Fashion",
+    "technology": "Html, CSS, Bootstrap",
+    "img": "https://i.ibb.co/0X9z5B7/penguin-fashion-1.png",
+    "link": "https://mahabubulislam.github.io/penguin-fashion/",
+    "description": "green"
+  },
+  {
+    "name": "Influence Gear",
+    "technology": "HTML, CSS",
+    "img": "https://i.ibb.co/f0xKYCr/influencer-gear.png",
+    "link": "https://mahabubulislam.github.io/influencer-gear/",
+    "description": "blue"
+  }
+]
