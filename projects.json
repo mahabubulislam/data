@@ -35,7 +35,7 @@
     "img2": "https://i.ibb.co/CWxn37D/trust-reviews-netlify-app-reviews-1.png",
     "link": "https://trust-reviews.netlify.app/",
     "github": "https://github.com/mahabubulislam/trust-review-react-router",
-    "description": "I used React, React Router, Tailwind CSS to create this project.This is a single page application. This is a products review website. It has 5 routes.Home routes is default homepage. Reviews routes is review page. Dashboard routs is designed with some recharts. Blogs routes inside some questions and about routes designed with about information."
+    "description": "I used React, React Router, Tailwind CSS to create this project.This is a single page application. This is a products review website. It has 5 routes.Home routes is default homepage. Reviews routes is review page. Dashboard routs is designed with some recharts. Blogs routes inside some questions and about routes designed with about information"
   },
   {
     "id": "smart-inventory",
